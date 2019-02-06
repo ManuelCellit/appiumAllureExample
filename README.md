@@ -23,8 +23,6 @@ And apk is included.
 
 * [Documentation](https://github.com/allure-framework/allure2/wiki)
 * [Issue Tracking](https://github.com/allure-framework/allure2/issues)
-* Mailing list: [allure@yandex-team.ru](mailto:allure@qameta.io)
-* Gitter chat room: [https://gitter.im/allure-framework/allure-core](https://gitter.im/allure-framework/allure-core)
 * StackOverflow tag: [Allure](http://stackoverflow.com/questions/tagged/allure)
 * [Appium](https://appium.io/)  
  
