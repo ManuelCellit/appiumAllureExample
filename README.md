@@ -5,11 +5,13 @@
 
 ### Getting Started
 
+#### Ejemplo POC
+
 To run the example you need to install [maven (3.1.1 or above)][maven] and [git][git]. 
 To generate Allure Report you should perform following steps:
 
 ```bash
-$ git clone git@github.com:allure-examples/allure-junit-example.git
+
 $ ./mvnw clean test
 $ ./mvnw allure:serve
 ```
