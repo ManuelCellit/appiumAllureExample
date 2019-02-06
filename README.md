@@ -1,7 +1,7 @@
 [maven]: http://maven.apache.org/
 [git]: http://git-scm.com/
 
-## Allure JUnit Example
+## Appium Allure Example
 
 ### Getting Started
 
@@ -16,6 +16,9 @@ $ ./mvnw clean test
 $ ./mvnw allure:serve
 ```
 
+For this example, you can use your phone to do a easy automatizated test with Android and Appium using Maven for build and Allure for reporting.
+And apk is included.
+
 ### More
 
 * [Documentation](https://github.com/allure-framework/allure2/wiki)
@@ -23,3 +26,5 @@ $ ./mvnw allure:serve
 * Mailing list: [allure@yandex-team.ru](mailto:allure@qameta.io)
 * Gitter chat room: [https://gitter.im/allure-framework/allure-core](https://gitter.im/allure-framework/allure-core)
 * StackOverflow tag: [Allure](http://stackoverflow.com/questions/tagged/allure)
+* [Appium](https://appium.io/)  
+ 
