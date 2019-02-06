@@ -39,8 +39,7 @@ public class TestLoginP8Test {
 		String splitcoma= ",";
 		String[] datos=null;	
 		
-		//Crear variable
-		
+				
 		try {
 			FileReader lecturaarchivo = new FileReader(filename);			
 			
@@ -48,7 +47,7 @@ public class TestLoginP8Test {
 	
 	        while((line = bufferedReader.readLine()) != null) {
 	        	
-	        	 datos = line.split(splitcoma); // Se utiliza el criterio de separaci�n
+	        	 datos = line.split(splitcoma); // Se utiliza el criterio de separacion
 	        }   
 	
 	        bufferedReader.close(); 
