@@ -58,8 +58,8 @@ public class TestLoginP8Test {
 		
 		}
 		
-		String usuario = datos[6];
-		String password = datos[7];
+		String usuario = datos[0];
+		String password = datos[1];
 		
 		
 		/*Aqu� termina la lectura de archivo */
