@@ -96,8 +96,8 @@ public class TestLoginP8Test {
 		
 		
 		
-		/*Thread.sleep(3000);
-		driver.quit();*/
+		/*Thread.sleep(3000);*/
+		driver.quit();
 	}
 
 	
